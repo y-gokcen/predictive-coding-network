@@ -147,7 +147,7 @@ Tested on:
 
 **Author:** Yasemin Gokcen  
 **Collaborator/Advisor:** Dr. Jeffery Yoshimi
-**Affiliation:** PhD Candidate, Cognitive & Information Sciences, UC Merced  
+**Affiliation:** PhD Student, Cognitive & Information Sciences, UC Merced  
 **Contact:** ygokcen@ucmerced.edu
 
 ## References
